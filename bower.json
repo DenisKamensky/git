@@ -1,0 +1,17 @@
+{
+  "name": "git",
+  "authors": [
+    "Denis Kamenski <k.dev@german-web.ru>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
